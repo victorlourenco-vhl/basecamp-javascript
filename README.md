@@ -7,4 +7,6 @@ O basecamp de javascript ofereicodo pela Digital Innovation One abordou tópicos
 * DOMExpcepition - Erros relacionados ao Document Object Model
 * Throe, try/Catch e Finally
 * Object Error - (Message, fileName, lineNumber)
+* Promisses - (resolve, reject)
+* fetch - (url, options)
 
