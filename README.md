@@ -10,7 +10,7 @@ O basecamp de javascript ofereicodo pela Digital Innovation One abordou tópicos
 * Promisses - (resolve, reject)
 * fetch - (url, options)
 
- *************** MAP, FILTER E REDUCE ***************
+ ## *************** MAP, FILTER E REDUCE ***************
 * map() - cria uma nova matriz preenchida com os resultados da chamada de uma função fornecida em cada elemento da matriz de chamada.
 -------------------------------------------------------------
    const numbers = [1, 2, 3, 4, 5];                              
@@ -49,11 +49,11 @@ O basecamp de javascript ofereicodo pela Digital Innovation One abordou tópicos
 
     console.log(sumOfAges)
 -------------------------------------------------------------
-DOM 
+## DOM 
 - Document Object Model
 - Padrão para acessar elementos HTML
 
-BOM
+## BOM
 - Browser Object Model
 - Tudo que está dentro do objeto window
 -------------------------------------------------------------
