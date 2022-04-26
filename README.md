@@ -57,7 +57,7 @@ BOM
 - Browser Object Model
 - Tudo que está dentro do objeto window
 
-document.createElement(element) - Cria um novo elemento HTML
-document.removeChild(element) - Remove um elemento
-document.appendChild(element) - Adiciona um elemento
-document.replaceChild(new, old) - Substitui um elemento
+- document.createElement(element) - Cria um novo elemento HTML
+- document.removeChild(element) - Remove um elemento
+- document.appendChild(element) - Adiciona um elemento
+- document.replaceChild(new, old) - Substitui um elemento
